@@ -2,6 +2,8 @@ Instead of testing JSON string, parse it into a Data Structure instead, because 
 
 Example:
 ```go
+import "encoding/json"
+
 type Player struct {
   Name  string
   Wins  int
