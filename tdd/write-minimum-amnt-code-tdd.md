@@ -1,3 +1,5 @@
+# Writing the minimum amount of code in TDD is good
+
 Writing the minimum amount of code in TDD is a reminder of the things I'm not testing.
 
 Example:
