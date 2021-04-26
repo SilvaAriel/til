@@ -1,2 +1,2 @@
-# til
-A list of things I've been learning
+# TIL
+> Today I Learned
