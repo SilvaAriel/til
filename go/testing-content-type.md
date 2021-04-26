@@ -1,3 +1,5 @@
+# Testing Content-type
+
 It's pretty simple to test Content Type in Go.
 
 ```go
