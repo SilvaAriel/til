@@ -4,7 +4,7 @@ Instead of testing JSON string, parse it into a Data Structure instead, because 
 
 json.NewDecoder() takes a io.Reader, so it can use a Handler's `http.ResponseWriter`
 
-Example:
+Example: 
 ```go
 import (
   "encoding/json"
