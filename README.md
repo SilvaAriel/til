@@ -25,6 +25,7 @@ _6 TILs and counting..._
 - [Passing value in URL path with fmt.Sprintf](go//passing-value-in-url-path.md)
 - [Simplified Router](go//simplified-router.md)
 - [Testing Content-type](go//testing-content-type.md)
+- [Choose Dependency Injection over Context](go//choose-di-over-context.md)
 
 ### Tdd
 
