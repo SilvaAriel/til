@@ -20,7 +20,7 @@ _6 TILs and counting..._
 
 ### Go
 
-- [Don't Test JSON String](go/dont-test-json-string.md)
+- [Don't Test JSON String](go\dont-test-json-string.md)
 - [Embedding might be a security issue](go\embedding-might-be-security-issue.md)
 - [Passing value in URL path with fmt.Sprintf](go\passing-value-in-url-path.md)
 - [Simplified Router](go\simplified-router.md)
