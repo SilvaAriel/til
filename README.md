@@ -7,7 +7,7 @@ Inspired by [Swyx's blog post](https://www.swyx.io/learn-in-public/) I created t
 If you find any mistake of typo feel free to let me know.
 
 
-_6 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -20,12 +20,13 @@ _6 TILs and counting..._
 
 ### Go
 
+- [Choose Dependency Injection over Context](go//choose-di-over-context.md)
+- [Choose method over functions if there's any state](go//method-over-func.md)
 - [Don't Test JSON String](go//dont-test-json-string.md)
 - [Embedding might be a security issue](go//embedding-might-be-security-issue.md)
 - [Passing value in URL path with fmt.Sprintf](go//passing-value-in-url-path.md)
 - [Simplified Router](go//simplified-router.md)
 - [Testing Content-type](go//testing-content-type.md)
-- [Choose Dependency Injection over Context](go//choose-di-over-context.md)
 
 ### Tdd
 
