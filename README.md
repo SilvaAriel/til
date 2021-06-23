@@ -7,7 +7,7 @@ Inspired by [Swyx's blog post](https://www.swyx.io/learn-in-public/) I created t
 If you find any mistake of typo feel free to let me know.
 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -16,6 +16,7 @@ _10 TILs and counting..._
 * [Data-structure](#data-structure)
 * [Go](#go)
 * [Tdd](#tdd)
+* [Time](#time)
 
 ---
 
@@ -37,6 +38,10 @@ _10 TILs and counting..._
 ### Tdd
 
 - [Writing the minimum amount of code in TDD is good](tdd//write-minimum-amnt-code-tdd.md)
+
+### Time
+
+- [Store Unix Time in long numbers](time//unix-time-should-be-long.md)
 
 ## Usage
 
