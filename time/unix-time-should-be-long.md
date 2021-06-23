@@ -1,4 +1,4 @@
-# Store Unix Time in long numbers
+# Store Unix Time in long variables
 
 Integers hold 32-bit of information.
 

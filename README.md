@@ -41,7 +41,7 @@ _11 TILs and counting..._
 
 ### Time
 
-- [Store Unix Time in long numbers](time//unix-time-should-be-long.md)
+- [Store Unix Time in long variables](time//unix-time-should-be-long.md)
 
 ## Usage
 
