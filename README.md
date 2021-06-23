@@ -7,16 +7,21 @@ Inspired by [Swyx's blog post](https://www.swyx.io/learn-in-public/) I created t
 If you find any mistake of typo feel free to let me know.
 
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Data-structure](#data-structure)
 * [Go](#go)
 * [Tdd](#tdd)
 
 ---
+
+### Data-structure
+
+- [Bloom Filter](data-structure//bloom-filter.md)
 
 ### Go
 
